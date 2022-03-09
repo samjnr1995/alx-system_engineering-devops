@@ -1,2 +1,2 @@
 #!/bin/bash
-| egrep -v "oo"
+printf '%0.2f\n' $num
